@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"br.com.Atividade_API_2"},{"l":"br.com.Atividade_API_2.controller"},{"l":"br.com.Atividade_API_2.dto"},{"l":"br.com.Atividade_API_2.enums"},{"l":"br.com.Atividade_API_2.model"},{"l":"br.com.Atividade_API_2.repository"}];updateSearchResults();
